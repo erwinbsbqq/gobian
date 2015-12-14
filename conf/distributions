@@ -1,0 +1,9 @@
+Origin: GoBian
+Label: GoBian
+Codename: wheezy
+Suite: stable
+Architectures: armhf source
+Components: main non-free contrib
+Description: Apt repository for GoBian wheezy
+SignWith: 072A2A3A
+
