@@ -1,0 +1,6 @@
+Archive: stable
+Component: contrib
+Origin: GoBian
+Label: GoBian
+Architecture: armhf
+Description: Apt repository for GoBian wheezy

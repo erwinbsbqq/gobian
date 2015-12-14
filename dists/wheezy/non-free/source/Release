@@ -1,0 +1,6 @@
+Archive: stable
+Component: non-free
+Origin: GoBian
+Label: GoBian
+Architecture: source
+Description: Apt repository for GoBian wheezy

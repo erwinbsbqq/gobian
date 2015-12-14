@@ -1,0 +1,79 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Origin: GoBian
+Label: GoBian
+Suite: stable
+Codename: wheezy
+Date: Mon, 14 Dec 2015 02:12:40 UTC
+Architectures: armhf
+Components: main non-free contrib
+Description: Apt repository for GoBian wheezy
+MD5Sum:
+ b3aa25f1142f51d442a9a5ec07e809f8 4557 main/binary-armhf/Packages
+ 733220ff180aef34cac6dbe79e87bc6b 2231 main/binary-armhf/Packages.gz
+ d59f782afd204dfc75867de5b254b0ce 127 main/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 156bfb84950da5f1d5adb51a02b042dd 128 main/source/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 non-free/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 non-free/binary-armhf/Packages.gz
+ a605d1f4bf336d50fbfd999e5cd88d22 131 non-free/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 non-free/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 non-free/source/Sources.gz
+ de1868997bf460ab211f5d5b9fa0e6db 132 non-free/source/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 contrib/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 contrib/binary-armhf/Packages.gz
+ ccaf1c47d6e7ddd1a95cb99a42a0256a 130 contrib/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 contrib/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 contrib/source/Sources.gz
+ 629b79871645905c88a6e4835ff73532 131 contrib/source/Release
+SHA1:
+ c50a87857733f4bdd88b492ec5950cebb97b0048 4557 main/binary-armhf/Packages
+ 56660ddce5826662be0a518091ff1bb49b37c38e 2231 main/binary-armhf/Packages.gz
+ 2d90c11be1efc8cd6ad06eda452d729e4ac7dd24 127 main/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 3a0e7a08b8d67ed57a9faa1889b1205bb88e3e07 128 main/source/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 non-free/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free/binary-armhf/Packages.gz
+ a97b2acc5653bd5fb11149c498e2dd0057681267 131 non-free/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 non-free/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free/source/Sources.gz
+ 2a75002e75af39a510b546c724d96569925f0706 132 non-free/source/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/binary-armhf/Packages.gz
+ abed0f6e30568eb7eee8c0c58ad39eaa31ec5faf 130 contrib/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/source/Sources.gz
+ 3ca1e2f35c9c12765fdf278e16c2c128288b8f0c 131 contrib/source/Release
+SHA256:
+ 2d1ef5c5118693df8a71117976c6bf65d3fefb5c9c9a50610dc376c4ff6899f8 4557 main/binary-armhf/Packages
+ bdffb558e33257a1b86b8e3707ef4e49cdae37dd3917db2c82e1ea9bdaaddbc8 2231 main/binary-armhf/Packages.gz
+ 3336fa80ffe6d1b26c88a5e45bb675d93b0e19addcd51a881e83a483e7b9252b 127 main/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ c28c1966d3fef49ce29ba2c0a8962a0256447050aeaeefc2e8a76f74fc7e48bb 128 main/source/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 non-free/binary-armhf/Packages.gz
+ 4044fc186f07be14efe846e505af8495eae972b1f711a7b7934e548865aa67fb 131 non-free/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 non-free/source/Sources.gz
+ 03308414625ae3b07b47fff4182a76094bf1f70111eb577c6f399c36c5838f3d 132 non-free/source/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/binary-armhf/Packages.gz
+ dbbcd5c360267eabccdedd2700dba78d8a35f6535d773a19c86a6992e9ff2cbb 130 contrib/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/source/Sources.gz
+ 55a83e8b92da71a64ddeaddd211475060db243e9a73fc86442d60d660a8d2cbd 131 contrib/source/Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iQEcBAEBAgAGBQJWbiWYAAoJEGwLvKHxxrhWB04IAJXzVFSc8/VebYHjmUdYFi1d
+1Pd8IKXUYPyCx6fsaNgtMruUzYEph3ahylbSEWN6RyMtv8eigSguu1/BX5Xi74CH
+OnrSFhnW9yu23HJaVe07lrphJMLGjX2jN7DI4J/cJbsRXsZJnvSvwz45m1wdynej
+1vXHJCkbh+c7XpDRetO0QyGwHJprXJNx+SqqQoMxsbPkRqt2ljaSyvTRwKhcX8eE
+TcqC5IAezHv3xmUJX+0iKEpwUdiSZoQVmtKmrrZSBNVphWy1dCSKHgKVf7dpc3bZ
+SJiiaDR79b8Nn+Oms71Pdvtq6bRfpwrTjGmYK98Ve8tdYWmexr7tgzT2A/osE2k=
+=24I2
+-----END PGP SIGNATURE-----
