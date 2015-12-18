@@ -54,6 +54,22 @@ Description: XBMC Media Center (ALi Hardware Accelerated version)
  This package contains all the archiecture independent data needed to have a
  working XBMC.
 
+Package: cloudq
+Version: 2.0.0
+Architecture: armhf
+Maintainer: dukula.zhu <dukula.zhu@unknown>
+Installed-Size: 34714
+Homepage: <insert the upstream URL, if relevant>
+Priority: extra
+Section: unknown
+Filename: pool/main/c/cloudq/cloudq_2.0.0_armhf.deb
+Size: 31708160
+SHA256: e8c5dab001f61dfb3d9db05eb25b1b4a398a6d31b23646d3519d5e0646d68c81
+SHA1: 609236a21d52751c0218c0bc7a79656384a09b83
+MD5sum: d65d0efb94ef1d13671455e4a91a049e
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
+
 Package: gof
 Version: 0.10.31-1gobian
 Architecture: armhf
