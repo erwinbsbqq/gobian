@@ -5,7 +5,7 @@ Origin: GoBian
 Label: GoBian
 Suite: stable
 Codename: wheezy
-Date: Mon, 21 Dec 2015 10:21:38 UTC
+Date: Mon, 21 Dec 2015 11:10:56 UTC
 Architectures: armhf
 Components: main non-free contrib
 Description: Apt repository for GoBian wheezy
@@ -69,11 +69,11 @@ SHA256:
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.11 (GNU/Linux)
 
-iQEcBAEBAgAGBQJWd9KyAAoJEGwLvKHxxrhWGQsIAMzCjJeIB7HyyN/jHxcu/12K
-OL/6e3HHnwE5zvw1OlvZzaNdXCz3boMc0eig2rWhJGqraXAggMISPE1qmVRcgn42
-VwfMD5wi+iVct/dEqm+lagcY+35G7KHvPAtA0CG2rrVl7KJ7SmCPiBuHGxQSlLtk
-ZN3Y9Wq1B8VrPUZV7wPHgSk0EecOzO8WhVaSYj6gc35bxus4lcXej+yxXhb1k6OC
-OI8/LpK7Oz/Rfm//z0pojhf5cv8tRqObipbHXUbAIW23FRYFxEyUD2VWCJF/qR6S
-CkiV4QOq5grNug3i/JOALy9ifbXjsiBYUEpR6/zWq4hH7EMMsAwxcaNKibM7jOE=
-=PPDE
+iQEcBAEBAgAGBQJWd95AAAoJEGwLvKHxxrhW6cwH/R3wkrEda7mH73vHmBKHYPoH
+QIVW9QhAEXVMVE2hEoSWJpa3Qesm6aFtA+ml4k169BHfrUhsGyF7SNE34Uqqpjjf
+zszb79Jbk5EGVtsVQSIgQv3df5NxM9QmFakySkIGRXXd0yY64SKocF0zva+kV0vc
+6NxhDLD+Xr1/doTFKKaS9gjkh2uRkg/XfdN+3R2xOfC3TUvEC2ls+cfG85yqcG2V
+Jefg6DqzshrPXIrXSVnXPMTmEfTg+03+56s/9a9FczLH05CAzTXkYHKKMTb2wBLK
+PjGfA9++jqjPFY0bqbwOOmX+DToCGPGdgMc/TAqlOZyPSajfSig5/s8I4k8VYaM=
+=5D4d
 -----END PGP SIGNATURE-----

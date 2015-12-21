@@ -2,7 +2,7 @@ Origin: GoBian
 Label: GoBian
 Suite: stable
 Codename: wheezy
-Date: Mon, 21 Dec 2015 10:21:38 UTC
+Date: Mon, 21 Dec 2015 11:10:56 UTC
 Architectures: armhf
 Components: main non-free contrib
 Description: Apt repository for GoBian wheezy
