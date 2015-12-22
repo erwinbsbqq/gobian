@@ -5,13 +5,13 @@ Origin: GoBian
 Label: GoBian
 Suite: stable
 Codename: wheezy
-Date: Tue, 22 Dec 2015 05:47:25 UTC
+Date: Tue, 22 Dec 2015 08:32:11 UTC
 Architectures: armhf
 Components: main non-free contrib
 Description: Apt repository for GoBian wheezy
 MD5Sum:
- 7bf062172faab7e61847ba18d90b7648 5079 main/binary-armhf/Packages
- 18d67755dc3a33b008b0dad35dd69d2c 2458 main/binary-armhf/Packages.gz
+ ff2519c74a705eb8221669513a900926 5079 main/binary-armhf/Packages
+ d6735dcbecd0016fbc00e5d73653ea47 2462 main/binary-armhf/Packages.gz
  d59f782afd204dfc75867de5b254b0ce 127 main/binary-armhf/Release
  d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
  7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
@@ -29,8 +29,8 @@ MD5Sum:
  7029066c27ac6f5ef18d660d5741979a 20 contrib/source/Sources.gz
  629b79871645905c88a6e4835ff73532 131 contrib/source/Release
 SHA1:
- f519ad3bc333a45bf00992b9297aa6d4071fe04b 5079 main/binary-armhf/Packages
- c4f23e3256db505c51d25f38b1ba1d27b0fe9fa2 2458 main/binary-armhf/Packages.gz
+ 0ddc8472ddde535ff5d1f3a9bf90a121a9515aaf 5079 main/binary-armhf/Packages
+ 7f31a86b08af6ab05a9fdb64fc26f3eb0ef6951f 2462 main/binary-armhf/Packages.gz
  2d90c11be1efc8cd6ad06eda452d729e4ac7dd24 127 main/binary-armhf/Release
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
@@ -48,8 +48,8 @@ SHA1:
  46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/source/Sources.gz
  3ca1e2f35c9c12765fdf278e16c2c128288b8f0c 131 contrib/source/Release
 SHA256:
- fa9c6a87d71b13d43f8395ee737e98e8e6ccbf287ec0f99c3c34cbf6da17da5e 5079 main/binary-armhf/Packages
- 7beabd3cd074698106376e66276285b264351a226e5f24eedeaf8e7890dfddb1 2458 main/binary-armhf/Packages.gz
+ f269309506dee84ac078e4e0297f31f9e4c7e0ca209b51326f658554f516c1e3 5079 main/binary-armhf/Packages
+ 9661cd7d68c2907dd8b2f102d3213bd9c5c022efe65423b213df50b26f6da6c1 2462 main/binary-armhf/Packages.gz
  3336fa80ffe6d1b26c88a5e45bb675d93b0e19addcd51a881e83a483e7b9252b 127 main/binary-armhf/Release
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
  59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
@@ -69,11 +69,11 @@ SHA256:
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.11 (GNU/Linux)
 
-iQEcBAEBAgAGBQJWeOPtAAoJEGwLvKHxxrhWfDIIAN2xBbfRVZIDw/5zNrTtpiUK
-PF2Pe4Oq+E7IFg2qN4wqBT3HuxL573dJbzOqHo938KFT8E++hKLTnw6ze1AF3EBM
-/MpCGbDF7y3JhXpMwbHHcrV95fVyZgIfuBi+M7dtMQPYDjTl9gVv8DeXdYMA97pt
-nQ58TqHDD07qerv3A3hkqwhEhXE/CfRXEbjzHNURxt7SN8KzHIgss0U8bFklnlsn
-wITs86ZX5zEche3hcSdhxLpi7sI24kTpb8DR0RH1ve3oD3LO3j4ktkb/FTOh9JQW
-3LeoD0CWq6unDPTlLlCPeHOGFM3UczidxQA/PgRinP5p7f6dJfo/Dww6ucVrDiE=
-=GX7S
+iQEcBAEBAgAGBQJWeQqLAAoJEGwLvKHxxrhW0LMH/jScVxw1KlloovzAhwX6NN2R
+HsilgeRBYnDp2pRccw/JkiC+fVi74+AUmGnK1SXRINA2MqN4jWUqpTCjU392yEQ8
+DxYe14EXukzxAETF9L3mPCiViA54ZoeTepkhER8dpZ7YArnKL52YQ2YShxnaJTpx
+kRSdNq7sNoJHQdPSUR8esBOLuHxj5ezsmFiat0QCd7wCvugiMRAKs7a3GHH9RVtw
+Anv8Z/Rcs5PXmhbNJYSa7TuE8lt+6occ+s/OAULFScjPCAv30Z5dhaVQtTABNk6h
+il//fGupMoLIPCoxLAfUKgBknQzmbltQobJKrGS5HCZgvNZNxH/croviJRjAN7o=
+=HYRW
 -----END PGP SIGNATURE-----

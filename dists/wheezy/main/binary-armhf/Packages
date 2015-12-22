@@ -58,15 +58,15 @@ Package: cloudq
 Version: 2.0.0
 Architecture: armhf
 Maintainer: dukula.zhu <dukula.zhu@unknown>
-Installed-Size: 34798
+Installed-Size: 34799
 Homepage: <insert the upstream URL, if relevant>
 Priority: extra
 Section: unknown
 Filename: pool/main/c/cloudq/cloudq_2.0.0_armhf.deb
-Size: 31756072
-SHA256: 6de913539add8dcc392a0b4022b78458377db979dbb92095032879299493db69
-SHA1: 446cd6fe049413402bc32a64d4250bb5229c6722
-MD5sum: 43ee65522b07b72890d1da1baa30fe6d
+Size: 31756842
+SHA256: 98b78df53da7db2a6b38daedf0fdc96d1785a52fae938a31122a7580f453ea13
+SHA1: 284b1403e7ebf2b47d1c27d2f2811539e4347f96
+MD5sum: 2f4e14358dbb3d6c8e54155595ae2cc6
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
 
