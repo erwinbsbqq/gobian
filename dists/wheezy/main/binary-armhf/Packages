@@ -55,18 +55,18 @@ Description: XBMC Media Center (ALi Hardware Accelerated version)
  working XBMC.
 
 Package: cloudq
-Version: 2.0.0
+Version: 2.0.1
 Architecture: armhf
 Maintainer: dukula.zhu <dukula.zhu@unknown>
-Installed-Size: 34799
+Installed-Size: 35440
 Homepage: <insert the upstream URL, if relevant>
 Priority: extra
 Section: unknown
-Filename: pool/main/c/cloudq/cloudq_2.0.0_armhf.deb
-Size: 31756842
-SHA256: 98b78df53da7db2a6b38daedf0fdc96d1785a52fae938a31122a7580f453ea13
-SHA1: 284b1403e7ebf2b47d1c27d2f2811539e4347f96
-MD5sum: 2f4e14358dbb3d6c8e54155595ae2cc6
+Filename: pool/main/c/cloudq/cloudq_2.0.1_armhf.deb
+Size: 32283956
+SHA256: e3103c7422d6fd385f7d7987c42e40d61f37354ae56338199ec421e2450646ab
+SHA1: 7ef34dced374b9fb34d819e260762c7ec797af4f
+MD5sum: 0180c86a3969ca5ddb57686c4787eebe
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
 
