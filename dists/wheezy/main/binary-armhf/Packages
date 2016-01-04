@@ -29,10 +29,10 @@ Homepage: http://xbmc.org/
 Priority: optional
 Section: video
 Filename: pool/main/a/alikodi/alikodi_14.2-1Helix_armhf.deb
-Size: 37532514
-SHA256: 991205dfb1b7eeed034d79ccf0d415e2ff94effdb8a95926f8c813af55fbb696
-SHA1: 18bf5727fbc0a930861c4a9527c35c3153ddd3af
-MD5sum: 240ed9086d9f0bf68d17cb7fe8b3de40
+Size: 37583156
+SHA256: 6fef689f95d0b65b5f1607a42569c5527f3a40d7e4869b01623b1923883eedd8
+SHA1: cb2c6c5ad6be7ab8b8571010ad6f921144f775cc
+MD5sum: 4430d2f9bc4e3597693091746de09ad0
 Description: XBMC Media Center (ALi Hardware Accelerated version)
  XBMC, recursive acronym for "XBMC Media Center", is an award winning free and
  open source software media-player and entertainment hub for all your digital
