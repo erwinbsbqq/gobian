@@ -1,17 +1,17 @@
 Package: alidma
-Version: 2.0.2-1gobian
+Version: 2.0.3-1gobian
 Architecture: armhf
 Maintainer: rodger.lin <rodger.lin@alitech.com>
-Installed-Size: 15132
+Installed-Size: 15133
 Depends: libssl-dev, avahi-daemon, gof, feh, libnl-cli-3-200, dhcpcd
 Homepage: http://www.gowarriorosh.com
 Priority: optional
 Section: video
-Filename: pool/main/a/alidma/alidma_2.0.2-1gobian_armhf.deb
-Size: 6222408
-SHA256: 1f17760d9f1bd995af53d8aad546cc15f4a1af3e37b815fc0ee84ee470210392
-SHA1: 7e0b2b627644bc9f7a2a0e874005e0c86c5dad6e
-MD5sum: 8b7a604281537e0f55f0e1aefd8be267
+Filename: pool/main/a/alidma/alidma_2.0.3-1gobian_armhf.deb
+Size: 6223954
+SHA256: ab2a72ee1bf59856461a7395238e154efe974fa8f8b585a1a6bb9ae0212aa743
+SHA1: 94b8fd7a7793637402b1214fb65dd2cfcfe65a52
+MD5sum: 1952aa105c48e36a545f46a8b4d3e2ff
 Description: DLNA/miracast/Airplay implement on Gobian
  A DLNA/miracast/Airplay implement on Gobian
  .
