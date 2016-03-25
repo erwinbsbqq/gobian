@@ -71,7 +71,7 @@ Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
 
 Package: gof
-Version: 1.0.1-1gobian
+Version: 1.0.2-1gobian
 Architecture: armhf
 Maintainer: rodger.lin <rodger.lin@alitech.com>
 Installed-Size: 167351
@@ -79,11 +79,11 @@ Depends: realpath, gettext, libxml2-dev, bison, flex, libuchardet-dev, libgnutls
 Homepage: http://www.gowarriorosh.com
 Priority: optional
 Section: libs
-Filename: pool/main/g/gof/gof_1.0.1-1gobian_armhf.deb
-Size: 57205528
-SHA256: f0016c4de1641ab9d27708b9cd4e66dc39f7052d02ba207676218a8b8b5bbc6c
-SHA1: d29853cbc39fd4f00cb72932bc46a5d66e48131d
-MD5sum: 54ecb11d13636b9a569a6f89c2c7d685
+Filename: pool/main/g/gof/gof_1.0.2-1gobian_armhf.deb
+Size: 57205740
+SHA256: a6fa1189d6260d5ffd2d90211c3222a5131e8fb0a79d72e252a5f04abe301e8c
+SHA1: 291265efab8d60827498cf04b6f7b66e21f910b7
+MD5sum: 7e413fb08dff2857f458ce770def02ed
 Description: A multimedia playback framework for GoBian
  A multimedia playback framework for GoBian. It includes gstreamer, ffmpeg and OpenMax.
  .
